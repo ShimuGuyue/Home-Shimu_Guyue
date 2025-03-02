@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { nav } from './navbar.mts';
 
 // https://vitepress.dev/reference/site-config
 
@@ -12,10 +13,7 @@ export default defineConfig({
 
     logo: '/images/logo.png',
 
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+    nav: nav,
 
     sidebar: [
       {
