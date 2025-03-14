@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Home-Shimu_Guyue/1.0.0": {
+        "runtime": {
+          "Home-Shimu_Guyue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Home-Shimu_Guyue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

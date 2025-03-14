@@ -1,0 +1,115 @@
+﻿@{
+    // 设置视图的标题
+    ViewData["Title"] = "首页";
+}
+
+<style>
+    body {
+        /* 设置背景图片 */
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/image/100368475_p1_master1200.jpg');
+        background-size: cover; /* 背景图片覆盖整个页面 */
+        background-repeat: no-repeat; /* 背景图片不重复 */
+        background-attachment: fixed; /* 背景图片固定，不随页面滚动 */
+        position: relative; /* 设置相对定位 */
+        font-family: "KaiTi", "楷体", serif; /* 默认字体为楷体 */
+        font-weight: 600; /* 增加字体粗细 */
+        font-size: 18px; /* 设置全局字体大小 */
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.2); /* 半透明白色背景 */
+        backdrop-filter: blur(10px); /* 毛玻璃效果 */
+        -webkit-backdrop-filter: blur(10px); /* 兼容Safari */
+        border-radius: 10px; /* 圆角 */
+        border: 1px solid rgba(255, 255, 255, 0.3); /* 边框 */
+        font-family: "KaiTi", "楷体", serif; /* 卡片内文字设置为楷体 */
+        font-weight: 600; /* 增加卡片内文字的粗细 */
+        font-size: 16px; /* 设置卡片内文字的字体大小 */
+    }
+
+    h1 {
+        font-weight: 700; /* 增加标题的粗细 */
+        font-size: 36px; /* 设置标题字体大小 */
+    }
+
+    h5 {
+        font-weight: 700; /* 增加小标题的粗细 */
+        font-size: 24px; /* 设置小标题字体大小 */
+    }
+
+    p {
+        font-weight: 500; /* 设置段落文字的粗细 */
+        font-size: 18px; /* 设置段落文字的字体大小 */
+    }
+
+    .subtitle {
+        font-weight: 600; /* 设置副标题的粗细 */
+        font-size: 24px; /* 设置副标题的字体大小 */
+        color: #000000; /* 设置副标题的颜色 */
+        margin-top: 10px; /* 增加顶部外边距 */
+        margin-bottom: 20px; /* 增加底部外边距 */
+    }
+
+    /* 为英文设置宋体 */
+    [lang="en"] {
+        font-family: "SimSun", "宋体", serif;
+    }
+</style>
+
+<!-- 引入 MathJax -->
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<div class="text-center">
+    <!-- 显示标题 -->
+    <h1 class="display-4">欢迎光临石木古月的小窝</h1>
+
+    <!-- 显示格言 -->
+    <p class="subtitle">
+        技术宅拯救世界 <span lang="en">TECH OTAKUS SAVE THE WORLD</span>
+    </p>
+    
+    <!-- 个人介绍卡片 -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card" style="margin: 0 auto;">
+                    <div class="card-body">
+                        <h5 class="card-title"><span lang="en">ACMer</span> 🏆</h5>
+                        <p class="card-text">
+                            <span>大学生算法竞赛选手，目标是在</span><span lang="en">ICPC/CCPC</span><span>中获得高级奖项</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card" style="margin: 0 auto;">
+                    <div class="card-body">
+                        <h5 class="card-title">第九艺术鉴赏家 🎮</h5>
+                        <p class="card-text">
+                            <span>喜欢鉴赏各类电子游戏，希望有一天能打造出一款自己满意的游戏</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card" style="margin: 0 auto;">
+                    <div class="card-body">
+                        <h5 class="card-title">傻逼二刺螈 💌</h5>
+                        <p class="card-text">
+                            <span>广泛涉猎各种番剧，喜欢各种动漫游戏，可惜碍于时间问题不能尽数体验</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @* 
+    <!-- 提供一个链接，指向ASP.NET Core的学习资源 -->
+    <p>
+        <span lang="en">Learn about building Web apps with ASP.NET Core</span>
+    </p> 
+    *@
+</div>
