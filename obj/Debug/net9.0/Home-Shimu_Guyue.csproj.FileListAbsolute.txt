@@ -93,3 +93,4 @@ E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\refint\Home-Shimu_Guyue.dll
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.pdb
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.genruntimeconfig.cache
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\ref\Home-Shimu_Guyue.dll
+E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.sourcelink.json
