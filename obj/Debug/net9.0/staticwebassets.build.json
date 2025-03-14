@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QPjMibNotlqt7Isvn92woDiC80UC6ZRWSoISwnW3KVM=",
+  "Hash": "3d4kVeetWTd/WzrJi3CdcWhZ2iXNWsKSOccnbGPJ6RU=",
   "Source": "Home-Shimu_Guyue",
   "BasePath": "_content/Home-Shimu_Guyue",
   "Mode": "Default",
@@ -1401,6 +1401,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\100368475_p1_master1200.jpg"
+    },
+    {
+      "Identity": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
+      "SourceId": "Home-Shimu_Guyue",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\",
+      "BasePath": "_content/Home-Shimu_Guyue",
+      "RelativePath": "image/aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b6gb0yd0ud",
+      "Integrity": "o753y0eaZWoOXk21rrqs9smmqaxcSGZwDSVovwcQV2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif"
     },
     {
       "Identity": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -3637,6 +3658,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-uPTqj3FnGaEIqBwdRcByDlhuOgiTdtFdb5LMjQ65yvA="
+        }
+      ]
+    },
+    {
+      "Route": "image/aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.b6gb0yd0ud.gif",
+      "AssetFile": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o753y0eaZWoOXk21rrqs9smmqaxcSGZwDSVovwcQV2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 17:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6gb0yd0ud"
+        },
+        {
+          "Name": "label",
+          "Value": "image/aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o753y0eaZWoOXk21rrqs9smmqaxcSGZwDSVovwcQV2s="
+        }
+      ]
+    },
+    {
+      "Route": "image/aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
+      "AssetFile": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o753y0eaZWoOXk21rrqs9smmqaxcSGZwDSVovwcQV2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 17:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o753y0eaZWoOXk21rrqs9smmqaxcSGZwDSVovwcQV2s="
         }
       ]
     },
