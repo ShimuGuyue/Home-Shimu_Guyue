@@ -1,29 +1,57 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Home_Shimu_Guyue</title>
-    <script type="importmap"></script>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Home_Shimu_Guyue.styles.css" asp-append-version="true" />
+    <meta charset="utf-8" /> <!-- 设置文档的字符编码为 UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- 使页面适配不同设备的宽度 -->
+    <title>@ViewData["Title"] - Home_Shimu_Guyue</title> <!-- 动态设置页面标题 -->
+    <script type="importmap"></script> <!-- 预留的脚本标签 -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> <!-- 引入 Bootstrap 样式 -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> <!-- 引入自定义样式文件 -->
+    <link rel="stylesheet" href="~/Home_Shimu_Guyue.styles.css" asp-append-version="true" /> <!-- 引入额外的样式文件 -->
+    <style>
+        /* 定义导航栏分割线 */
+        .navbar-divider {
+            border: 0; /* 移除默认边框 */
+            height: 3px; /* 设置分割线的厚度 */
+            background-color: #000; /* 设置分割线的颜色为黑色 */
+            margin: 0; /* 移除上下间距 */
+        }
+
+        /* 设置导航栏的全局字体样式 */
+        .navbar {
+            font-family: sans-serif;
+            font-weight: normal; /* 设置字体为正常粗细 */
+        }
+
+        /* 设置导航栏的全局字体大小 */
+        .navbar .nav-link {
+            font-size: 20px; /* 统一设置字体大小 */
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light transparent-navbar">
+            <!-- 使用 Bootstrap 的导航栏组件 -->
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Home_Shimu_Guyue</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/image/124313415_p10_master1200.jpg" alt="Home-Shimu_Guyue" style="height: 40px;" />
+                </a>
+                <!-- 定义导航栏品牌链接 -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon"></span> <!-- 响应式导航栏切换按钮 -->
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <!-- 导航栏内容 -->
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        <li class="nav-item"> <!-- 导航链接到 Privacy 页面 -->
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item"> <!-- 分隔符 -->
+                            <span class="nav-link text-muted">|</span> 
+                        </li>
+                        <li class="nav-item"> <!-- 导航链接到 Privacy 页面 -->
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
@@ -31,20 +59,25 @@
             </div>
         </nav>
     </header>
+
+    <!-- 添加分割线 -->
+    <hr class="navbar-divider" /> <!-- 定义导航栏下方的分割线 -->
+
     <div class="container">
         <main role="main" class="pb-3">
-            @RenderBody()
+            @RenderBody() <!-- 渲染页面的主体内容 -->
         </main>
     </div>
 
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2025 - Home_Shimu_Guyue - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <!-- 页脚内容 -->
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <script src="~/lib/jquery/dist/jquery.min.js"></script> <!-- 引入 jQuery -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> <!-- 引入 Bootstrap 的 JS 文件 -->
+    <script src="~/js/site.js" asp-append-version="true"></script> <!-- 引入自定义 JS 文件 -->
+    @await RenderSectionAsync("Scripts", required: false) <!-- 渲染额外的脚本部分 -->
 </body>
 </html>

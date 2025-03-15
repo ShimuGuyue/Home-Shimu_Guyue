@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\0cfae2c1c4f4938a99b2302e43d96628_4133967809654572648.gif",
+      "PackagePath": "staticwebassets\\image\\0cfae2c1c4f4938a99b2302e43d96628_4133967809654572648.gif"
+    },
+    {
       "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\100368475_p1_master1200.jpg",
       "PackagePath": "staticwebassets\\image\\100368475_p1_master1200.jpg"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
       "PackagePath": "staticwebassets\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif"
+    },
+    {
+      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\e156233d4dd3bddbd847fd4d01185815_4458264803312619804.gif",
+      "PackagePath": "staticwebassets\\image\\e156233d4dd3bddbd847fd4d01185815_4458264803312619804.gif"
     },
     {
       "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\LICENSE",
