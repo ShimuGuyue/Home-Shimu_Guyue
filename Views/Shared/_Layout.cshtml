@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" /> <!-- 设置文档的字符编码为 UTF-8 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- 使页面适配不同设备的宽度 -->
-    <title>@ViewData["Title"] - Home_Shimu_Guyue</title> <!-- 动态设置页面标题 -->
+    <title>@ViewData["Title"] - Home-Shimu_Guyue</title> <!-- 动态设置页面标题 -->
     <script type="importmap"></script> <!-- 预留的脚本标签 -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> <!-- 引入 Bootstrap 样式 -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> <!-- 引入自定义样式文件 -->
@@ -19,13 +19,13 @@
 
         /* 设置导航栏的全局字体样式 */
         .navbar {
-            font-family: sans-serif;
-            font-weight: normal; /* 设置字体为正常粗细 */
+            font-family: sans-serif;    /* 设置字体 */
+            font-weight: 800; /* 设置字体粗细 */;
         }
 
         /* 设置导航栏的全局字体大小 */
         .navbar .nav-link {
-            font-size: 20px; /* 统一设置字体大小 */
+            font-size: 24px; /* 统一设置字体大小 */
         }
     </style>
 </head>
@@ -34,13 +34,14 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light transparent-navbar">
             <!-- 使用 Bootstrap 的导航栏组件 -->
             <div class="container-fluid">
+                <!-- 定义导航栏品牌链接 -->
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
                     <img src="~/image/124313415_p10_master1200.jpg" alt="Home-Shimu_Guyue" style="height: 40px;" />
                 </a>
-                <!-- 定义导航栏品牌链接 -->
+                <!-- 响应式导航栏切换按钮 -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span> <!-- 响应式导航栏切换按钮 -->
+                    <span class="navbar-toggler-icon"></span> 
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <!-- 导航栏内容 -->
