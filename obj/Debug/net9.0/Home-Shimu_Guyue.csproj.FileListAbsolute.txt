@@ -17,7 +17,6 @@ E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.RazorAssemblyI
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\scopedcss\bundle\Home-Shimu_Guyue.styles.css
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\scopedcss\projectbundle\Home-Shimu_Guyue.bundle.scp.css
-E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\r3x1fjhweq-61n19gt1b8.gz
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\nzz36pryhi-bqjiyaj88i.gz
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\erjqb5wqpi-c2jlpeoesf.gz
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\nmjhm56y3g-erw9l3u2r3.gz
@@ -94,3 +93,4 @@ E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.pdb
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.genruntimeconfig.cache
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\ref\Home-Shimu_Guyue.dll
 E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.sourcelink.json
+E:\00000000000\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\r3x1fjhweq-gewde2ug9g.gz

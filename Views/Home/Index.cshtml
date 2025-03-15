@@ -80,6 +80,68 @@
     [lang="en"] {
         font-family: "SimSun", "宋体", serif;
     }
+
+    .custom-btn {
+        font-size: 18px;
+        font-weight: 600;
+        color: white;
+        border-radius: 10px; /* 圆角 */
+        padding: 10px 20px; /* 内边距 */
+        transition: all 0.3s ease; /* 动画过渡效果 */
+        width: 150px; /* 统一按钮宽度 */
+        height: 50px; /* 统一按钮高度 */
+        text-align: center; /* 居中对齐 */
+        line-height: 30px; /* 调整文字垂直居中 */
+    }
+
+    .btn-container {
+        display: flex;
+        flex-direction: column; /* 使按钮竖直排列 */
+        align-items: flex-start; /* 将按钮对齐到容器的左侧 */
+        justify-content: flex-start; /* 从顶部开始排列 */
+        gap: 10px; /* 按钮之间的间距 */
+        margin-left: 20px; /* 距离屏幕左侧的间距 */
+    }
+
+    /* 按钮 1 样式 */
+    .btn-style-1 {
+        background-color: #4caf50; /* 绿色背景 */
+        border: 2px solid #388e3c; /* 绿色边框 */
+    }
+    .btn-style-1:hover {
+        background-color: #388e3c; /* 悬停时更深的绿色 */
+        border-color: #2e7d32;
+    }
+
+    /* 按钮 2 样式 */
+    .btn-style-2 {
+        background-color: #2196f3; /* 蓝色背景 */
+        border: 2px solid #1976d2; /* 蓝色边框 */
+    }
+    .btn-style-2:hover {
+        background-color: #1976d2; /* 悬停时更深的蓝色 */
+        border-color: #1565c0;
+    }
+
+    /* 按钮 3 样式 */
+    .btn-style-3 {
+        background-color: #ff9800; /* 橙色背景 */
+        border: 2px solid #f57c00; /* 橙色边框 */
+    }
+    .btn-style-3:hover {
+        background-color: #f57c00; /* 悬停时更深的橙色 */
+        border-color: #ef6c00;
+    }
+
+    /* 按钮 4 样式 */
+    .btn-style-4 {
+        background-color: #f44336; /* 红色背景 */
+        border: 2px solid #d32f2f; /* 红色边框 */
+    }
+    .btn-style-4:hover {
+        background-color: #d32f2f; /* 悬停时更深的红色 */
+        border-color: #c62828;
+    }
 </style>
 
 <!-- 引入 MathJax -->
@@ -98,6 +160,23 @@
     </p>
 </div>
 
+<!-- 社交平台 -->
+<div class="text-center btn-container" style="margin-top: 20px;">
+    <a href="https://www.luogu.com.cn/user/1254437" class="btn custom-btn btn-style-4" role="button" target="_blank">
+        洛谷
+    </a>
+    <a href="https://ac.nowcoder.com/acm/contest/profile/917525779" class="btn custom-btn btn-style-1" role="button" target="_blank">
+        牛客竞赛
+    </a>
+    <a href="https://atcoder.jp/users/ShimuGuyue" class="btn custom-btn btn-style-3" role="button" target="_blank">
+        Atcoder
+    </a>
+    <a href="https://codeforces.com/profile/Shimu_Guyue" class="btn custom-btn btn-style-2" role="button" target="_blank">
+        Codeforces
+    </a>
+</div>
+
+<br />
 
 <div class="text-center">
     <!-- 个人介绍卡片 -->
