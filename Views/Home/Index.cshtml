@@ -94,53 +94,79 @@
         line-height: 30px; /* 调整文字垂直居中 */
     }
 
+    .btn-container-wrapper {
+        display: flex; /* 使用 flex 布局 */
+        flex-direction: row; /* 水平排列 */
+        justify-content: space-between; /* 块之间的间距 */
+        gap: 20px; /* 两个区块之间的间距 */
+    }
+
     .btn-container {
         display: flex;
-        flex-direction: column; /* 使按钮竖直排列 */
-        align-items: flex-start; /* 将按钮对齐到容器的左侧 */
-        justify-content: flex-start; /* 从顶部开始排列 */
+        flex-direction: column; /* 按钮竖直排列 */
+        align-items: flex-start; /* 左对齐 */
         gap: 10px; /* 按钮之间的间距 */
-        margin-left: 20px; /* 距离屏幕左侧的间距 */
     }
 
     /* 按钮 1 样式 */
-    .btn-style-1 {
-        background-color: #2196f3; /* 绿色背景 */
-        border: 2px solid #1976d2; /* 绿色边框 */
+    .btn-style-blue {
+        background-color: #2196f3; /* 蓝色背景 */
+        border: 2px solid #1976d2; /* 蓝色边框 */
     }
-    .btn-style-1:hover {
-        background-color: #1976d2; /* 悬停时更深的绿色 */
+    .btn-style-blue:hover {
+        background-color: #1976d2; /* 悬停时更深的蓝色 */
         border-color: #1565c0;
     }
 
-    /* 按钮 2 样式 */
-    .btn-style-2 {
-        background-color: #ffc107; /* 蓝色背景 */
-        border: 2px solid #ffa000; /* 蓝色边框 */
+    /* 按钮 yellow 样式 */
+    .btn-style-yellow {
+        background-color: #ffc107; /* 黄色背景 */
+        border: 2px solid #ffa000; /* 黄色边框 */
     }
-    .btn-style-2:hover {
-        background-color: #ffa000; /* 悬停时更深的蓝色 */
+    .btn-style-yellow:hover {
+        background-color: #ffa000; /* 悬停时更深的黄色 */
         border-color: #ff8f00;
     }
 
-    /* 按钮 3 样式 */
-    .btn-style-3 {
-        background-color: #ff0000; /* 橙色背景 */
-        border: 2px solid #cc0000; /* 橙色边框 */
+    /* 按钮 red 样式 */
+    .btn-style-red {
+        background-color: #ff0000; /* 红色背景 */
+        border: 2px solid #cc0000; /* 红色边框 */
     }
-    .btn-style-3:hover {
-        background-color: #cc0000; /* 悬停时更深的橙色 */
+    .btn-style-red:hover {
+        background-color: #cc0000; /* 悬停时更深的红色 */
         border-color: #990000;
     }
 
-    /* 按钮 4 样式 */
-    .btn-style-4 {
-        background-color: #4caf50; /* 红色背景 */
-        border: 2px solid #388e3c; /* 红色边框 */
+    /* 按钮 green 样式 */
+    .btn-style-green {
+        background-color: #4caf50; /* 绿色背景 */
+        border: 2px solid #388e3c; /* 绿色边框 */
     }
-    .btn-style-4:hover {
-        background-color: #388e3c; /* 悬停时更深的红色 */
+    .btn-style-green:hover {
+        background-color: #388e3c; /* 悬停时更深的绿色 */
         border-color: #2e7d32;
+    }
+
+    /* 按钮 pink 样式 */
+    .btn-style-pink {
+        background-color: #ff69b4; /* 粉色背景 */
+        border: 2px solid #ff1493; /* 粉色边框 */
+    }
+    .btn-style-pink:hover {
+        background-color: #ff1493; /* 悬停时更深的粉色 */
+        border-color: #c71585;
+    }
+
+    /* 按钮 black 样式 */
+    .btn-style-black {
+        background-color: #353535; /* 黑色背景 */
+        border: 2px solid #555555; /* 边框为更浅的黑色 */
+    }
+
+    .btn-style-black:hover {
+        background-color: #555555; /* 悬停时更浅的黑色 */
+        border-color: #444444;
     }
 </style>
 
@@ -161,19 +187,32 @@
 </div>
 
 <!-- 社交平台 -->
-<div class="text-center btn-container" style="margin-top: 20px;">
-    <a href="https://www.luogu.com.cn/user/1254437" class="btn custom-btn btn-style-1" role="button" target="_blank">
-        洛谷
-    </a>
-    <a href="https://ac.nowcoder.com/acm/contest/profile/917525779" class="btn custom-btn btn-style-2" role="button" target="_blank">
-        牛客竞赛
-    </a>
-    <a href="https://codeforces.com/profile/Shimu_Guyue" class="btn custom-btn btn-style-3" role="button" target="_blank">
-        Codeforces
-    </a>
-    <a href="https://atcoder.jp/users/ShimuGuyue" class="btn custom-btn btn-style-4" role="button" target="_blank">
-        Atcoder
-    </a>
+<div class="text-center btn-container-wrapper" style="margin-top: 20px;">
+    <div class="btn-container">
+        <a href="https://www.luogu.com.cn/user/1254437" class="btn custom-btn btn-style-blue" role="button" target="_blank">
+            洛谷
+        </a>
+        <a href="https://ac.nowcoder.com/acm/contest/profile/917525779" class="btn custom-btn btn-style-yellow" role="button" target="_blank">
+            牛客竞赛
+        </a>
+        <a href="https://codeforces.com/profile/Shimu_Guyue" class="btn custom-btn btn-style-red" role="button" target="_blank">
+            Codeforces
+        </a>
+        <a href="https://atcoder.jp/users/ShimuGuyue" class="btn custom-btn btn-style-green" role="button" target="_blank">
+            Atcoder
+        </a>
+    </div>
+    <div class="btn-container">
+        <a href="https://space.bilibili.com/490341270?spm_id_from=333.1007.0.0" class="btn custom-btn btn-style-pink" role="button" target="_blank">
+            哔哩哔哩
+        </a>
+        <a href="https://www.pixiv.net/users/108484714" class="btn custom-btn btn-style-blue" role="button" target="_blank">
+            Pixiv
+        </a>
+        <a href="https://github.com/ShimuGuyue" class="btn custom-btn btn-style-black" role="button" target="_blank">
+            Github
+        </a>
+    </div>
 </div>
 
 <br />
@@ -207,7 +246,7 @@
                     <div class="card-body">
                         <h5 class="card-title">傻逼二刺螈 💌</h5>
                         <p class="card-text">
-                            <span>广泛涉猎各种番剧，喜欢各种动漫游戏，可惜碍于时间问题不能尽数体验</span>
+                            <span>广泛涉猎各种番剧，喜欢各类美少女动漫和游戏，可惜碍于时间问题不能尽数体验</span>
                         </p>
                     </div>
                 </div>
