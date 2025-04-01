@@ -1,279 +1,283 @@
 {
   "Files": [
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Home-Shimu_Guyue.bundle.scp.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Home-Shimu_Guyue.bundle.scp.css",
       "PackagePath": "staticwebassets\\Home-Shimu_Guyue.blh9842zsn.bundle.scp.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\favicon.ico",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\0cfae2c1c4f4938a99b2302e43d96628_4133967809654572648.gif",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\0cfae2c1c4f4938a99b2302e43d96628_4133967809654572648.gif",
       "PackagePath": "staticwebassets\\image\\0cfae2c1c4f4938a99b2302e43d96628_4133967809654572648.gif"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\100368475_p1_master1200.jpg",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\100368475_p1_master1200.jpg",
       "PackagePath": "staticwebassets\\image\\100368475_p1_master1200.jpg"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\124313415_p10_master1200.jpg",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\124313415_p10_master1200.jpg",
       "PackagePath": "staticwebassets\\image\\124313415_p10_master1200.jpg"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\152248d44baac64c11df061c64ffdff0_1353234151287324716.gif",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\152248d44baac64c11df061c64ffdff0_1353234151287324716.gif",
       "PackagePath": "staticwebassets\\image\\152248d44baac64c11df061c64ffdff0_1353234151287324716.gif"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\162b8aaa517ce3550bb29f2d04566f83_369413527571217745.gif",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\162b8aaa517ce3550bb29f2d04566f83_369413527571217745.gif",
       "PackagePath": "staticwebassets\\image\\162b8aaa517ce3550bb29f2d04566f83_369413527571217745.gif"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif",
       "PackagePath": "staticwebassets\\image\\aec450dd0900d3dd112fed20a0ed0cf5_7051605566577169928.gif"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\image\\e156233d4dd3bddbd847fd4d01185815_4458264803312619804.gif",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\image\\e156233d4dd3bddbd847fd4d01185815_4458264803312619804.gif",
       "PackagePath": "staticwebassets\\image\\e156233d4dd3bddbd847fd4d01185815_4458264803312619804.gif"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "E:\\00000000000\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
