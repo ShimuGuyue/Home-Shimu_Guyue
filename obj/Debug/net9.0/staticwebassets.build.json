@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HB356kxFJypIGiX60H2OEUPnb3u62RqSyApvqM5er4Q=",
+  "Hash": "KdnZng/dziYlesWX2byLHvCXgv21xl3xPqZI0eCiAg0=",
   "Source": "Home-Shimu_Guyue",
   "BasePath": "_content/Home-Shimu_Guyue",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-djayhbsqm6.gz",
+      "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-qupgzs0iab.gz",
       "SourceId": "Home-Shimu_Guyue",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Home-Shimu_Guyue",
-      "RelativePath": "css/index#[.{fingerprint=djayhbsqm6}]?.css.gz",
+      "RelativePath": "css/index#[.{fingerprint=qupgzs0iab}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k7jf7dq05h",
-      "Integrity": "AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30=",
+      "Fingerprint": "7i531xpseg",
+      "Integrity": "n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\index.css"
@@ -836,6 +836,27 @@
       "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\ke95qikf0s-dr7uio00zw.gz",
+      "SourceId": "Home-Shimu_Guyue",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Home-Shimu_Guyue",
+      "RelativePath": "css/Elysia#[.{fingerprint=dr7uio00zw}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\Elysia.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ol199aashg",
+      "Integrity": "pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\Elysia.css"
+    },
+    {
       "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\kr1dmdtn1j-lcd1t2u6c8.gz",
       "SourceId": "Home-Shimu_Guyue",
       "SourceType": "Discovered",
@@ -876,6 +897,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\l757xez8c3-cietgfvn6i.gz",
+      "SourceId": "Home-Shimu_Guyue",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Home-Shimu_Guyue",
+      "RelativePath": "css/button#[.{fingerprint=cietgfvn6i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\button.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xz3k4uhim8",
+      "Integrity": "PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\button.css"
     },
     {
       "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\mbqqds85kd-fvhpjtyr6v.gz",
@@ -1382,6 +1424,48 @@
       "OriginalItemSpec": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Home-Shimu_Guyue.bundle.scp.css"
     },
     {
+      "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\button.css",
+      "SourceId": "Home-Shimu_Guyue",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\",
+      "BasePath": "_content/Home-Shimu_Guyue",
+      "RelativePath": "css/button#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cietgfvn6i",
+      "Integrity": "TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\button.css"
+    },
+    {
+      "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\Elysia.css",
+      "SourceId": "Home-Shimu_Guyue",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\",
+      "BasePath": "_content/Home-Shimu_Guyue",
+      "RelativePath": "css/Elysia#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dr7uio00zw",
+      "Integrity": "N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Elysia.css"
+    },
+    {
       "Identity": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\index.css",
       "SourceId": "Home-Shimu_Guyue",
       "SourceType": "Discovered",
@@ -1396,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "djayhbsqm6",
-      "Integrity": "2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g=",
+      "Fingerprint": "qupgzs0iab",
+      "Integrity": "4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
@@ -2833,13 +2917,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/index.css",
-      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-djayhbsqm6.gz",
+      "Route": "css/button.cietgfvn6i.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\l757xez8c3-cietgfvn6i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000686813187"
+          "Quality": "0.002331002331"
         }
       ],
       "ResponseHeaders": [
@@ -2849,15 +2933,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1455"
+          "Value": "428"
         },
         {
           "Name": "ETag",
-          "Value": "\"AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30=\""
+          "Value": "\"PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 16:16:34 GMT"
+          "Value": "Tue, 01 Apr 2025 16:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cietgfvn6i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/button.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs="
+        }
+      ]
+    },
+    {
+      "Route": "css/button.cietgfvn6i.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\button.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 16:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cietgfvn6i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/button.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs="
+        }
+      ]
+    },
+    {
+      "Route": "css/button.cietgfvn6i.css.gz",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\l757xez8c3-cietgfvn6i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 16:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cietgfvn6i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/button.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I="
+        }
+      ]
+    },
+    {
+      "Route": "css/button.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\l757xez8c3-cietgfvn6i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002331002331"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 16:19:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2877,13 +3122,448 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g=\""
+          "Value": "W/\"TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g="
+          "Value": "sha256-TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs="
+        }
+      ]
+    },
+    {
+      "Route": "css/button.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\button.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 16:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLUYnpT731P8O7cryOIpjvmJwrVHVOP6Hxtp8B7OtRs="
+        }
+      ]
+    },
+    {
+      "Route": "css/button.css.gz",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\l757xez8c3-cietgfvn6i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 16:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZ2qco16L1QNH0wFSDXcszY5dNSpk9QI/YunSMizv0I="
+        }
+      ]
+    },
+    {
+      "Route": "css/Elysia.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\ke95qikf0s-dr7uio00zw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001818181818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U="
+        }
+      ]
+    },
+    {
+      "Route": "css/Elysia.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\Elysia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U="
+        }
+      ]
+    },
+    {
+      "Route": "css/Elysia.css.gz",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\ke95qikf0s-dr7uio00zw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg="
+        }
+      ]
+    },
+    {
+      "Route": "css/Elysia.dr7uio00zw.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\ke95qikf0s-dr7uio00zw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001818181818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dr7uio00zw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Elysia.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U="
+        }
+      ]
+    },
+    {
+      "Route": "css/Elysia.dr7uio00zw.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\Elysia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dr7uio00zw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Elysia.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U="
+        }
+      ]
+    },
+    {
+      "Route": "css/Elysia.dr7uio00zw.css.gz",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\ke95qikf0s-dr7uio00zw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dr7uio00zw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Elysia.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pN5xgKlFez/YuBdOp1dNxEhcxIIX3KST0O8j3Idgvcg="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-qupgzs0iab.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000892857143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 16:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8="
         }
       ]
     },
@@ -2898,7 +3578,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4317"
+          "Value": "2809"
         },
         {
           "Name": "Content-Type",
@@ -2906,11 +3586,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g=\""
+          "Value": "\"4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 16:16:34 GMT"
+          "Value": "Tue, 01 Apr 2025 16:19:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2920,13 +3600,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g="
+          "Value": "sha256-4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8="
         }
       ]
     },
     {
       "Route": "css/index.css.gz",
-      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-djayhbsqm6.gz",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-qupgzs0iab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2935,7 +3615,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1455"
+          "Value": "1119"
         },
         {
           "Name": "Content-Type",
@@ -2943,11 +3623,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30=\""
+          "Value": "\"n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 16:16:34 GMT"
+          "Value": "Tue, 01 Apr 2025 16:19:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2965,18 +3645,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30="
+          "Value": "sha256-n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ="
         }
       ]
     },
     {
-      "Route": "css/index.djayhbsqm6.css",
-      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-djayhbsqm6.gz",
+      "Route": "css/index.qupgzs0iab.css",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-qupgzs0iab.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000686813187"
+          "Quality": "0.000892857143"
         }
       ],
       "ResponseHeaders": [
@@ -2986,15 +3666,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1455"
+          "Value": "1119"
         },
         {
           "Name": "ETag",
-          "Value": "\"AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30=\""
+          "Value": "\"n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 16:16:34 GMT"
+          "Value": "Tue, 01 Apr 2025 16:19:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3014,13 +3694,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g=\""
+          "Value": "W/\"4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "djayhbsqm6"
+          "Value": "qupgzs0iab"
         },
         {
           "Name": "label",
@@ -3028,12 +3708,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g="
+          "Value": "sha256-4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8="
         }
       ]
     },
     {
-      "Route": "css/index.djayhbsqm6.css",
+      "Route": "css/index.qupgzs0iab.css",
       "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\wwwroot\\css\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3043,7 +3723,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4317"
+          "Value": "2809"
         },
         {
           "Name": "Content-Type",
@@ -3051,11 +3731,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g=\""
+          "Value": "\"4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 16:16:34 GMT"
+          "Value": "Tue, 01 Apr 2025 16:19:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3065,7 +3745,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "djayhbsqm6"
+          "Value": "qupgzs0iab"
         },
         {
           "Name": "label",
@@ -3073,13 +3753,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2WanZ7iARwQP7qEAiZYqlcaoc5FR/fe/W6ohf8a218g="
+          "Value": "sha256-4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8="
         }
       ]
     },
     {
-      "Route": "css/index.djayhbsqm6.css.gz",
-      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-djayhbsqm6.gz",
+      "Route": "css/index.qupgzs0iab.css.gz",
+      "AssetFile": "C:\\_0000000000\\Github\\Home-Shimu_Guyue\\obj\\Debug\\net9.0\\compressed\\5hq3h62tpe-qupgzs0iab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3088,7 +3768,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1455"
+          "Value": "1119"
         },
         {
           "Name": "Content-Type",
@@ -3096,11 +3776,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30=\""
+          "Value": "\"n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 16:16:34 GMT"
+          "Value": "Tue, 01 Apr 2025 16:19:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3118,7 +3798,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "djayhbsqm6"
+          "Value": "qupgzs0iab"
         },
         {
           "Name": "label",
@@ -3126,7 +3806,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AJaGNHxEkgrIxLA5yW9vXDKNWHSbEYEVlRswSMQRX30="
+          "Value": "sha256-n5NQiL6Tv7kR+hqJuFsyi3zats+HEk2rW2PrUoJvEaQ="
         }
       ]
     },
@@ -3453,7 +4133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3514,7 +4194,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3559,7 +4239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3614,7 +4294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3675,7 +4355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3720,7 +4400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3775,7 +4455,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3828,7 +4508,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3865,7 +4545,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3912,7 +4592,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3965,7 +4645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4002,7 +4682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 15:13:18 GMT"
+          "Value": "Mon, 14 Apr 2025 08:38:13 GMT"
         },
         {
           "Name": "Cache-Control",

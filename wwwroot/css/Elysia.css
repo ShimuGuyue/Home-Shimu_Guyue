@@ -1,0 +1,40 @@
+/* 容器边框和毛玻璃特效 */
+.elysia-container {
+    border: 5px solid;
+    border-image: linear-gradient(to right, pink, hotpink, deeppink, palevioletred, lightpink); 
+    border-image-slice: 1;
+    padding: 15px;
+    border-radius: 15px;
+    background: rgba(220, 131, 201, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+/* 文字通用样式 */
+.elysia-text {
+    font-size: 18px;
+    font-weight: 1000;
+    color: pink;
+    margin-bottom: 1.5rem;
+    /* 添加段落间距 */
+}
+
+/* 图片样式 */
+.elysia-image {
+    max-width: 60%;
+    height: auto;
+    margin: 10px 0;
+    /* 添加图片上下间距 */
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .elysia-image {
+        max-width: 80%;
+    }
+}
+
+/* 可选：增强渐变边框的辉光效果 */
+.border-glow {
+    box-shadow: 0 0 15px rgba(255, 20, 147, 0.3);
+}

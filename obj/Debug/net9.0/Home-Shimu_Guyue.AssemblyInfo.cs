@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Home-Shimu_Guyue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73bb3ce36ad62855029f74cb7388ba2b54ef3a2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13c945e1f56669a001767f15cd18cd9e767df9c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Home-Shimu_Guyue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Home-Shimu_Guyue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
