@@ -17,25 +17,6 @@ body {
     /* 设置全局字体大小 */
 }
 
-.card {
-    background: rgba(255, 255, 255, 0.2);
-    /* 半透明白色背景 */
-    backdrop-filter: blur(10px);
-    /* 毛玻璃效果 */
-    -webkit-backdrop-filter: blur(10px);
-    /* 兼容Safari */
-    border-radius: 10px;
-    /* 圆角 */
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    /* 边框 */
-    font-family: "KaiTi", "楷体", serif;
-    /* 卡片内文字设置为楷体 */
-    font-weight: 600;
-    /* 增加卡片内文字的粗细 */
-    font-size: 16px;
-    /* 设置卡片内文字的字体大小 */
-}
-
 h1 {
     font-weight: 700;
     /* 增加标题的粗细 */

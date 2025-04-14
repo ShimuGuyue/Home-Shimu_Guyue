@@ -1,0 +1,58 @@
+/* 调整个人介绍容器的内外边距 */
+.personal-intro-container {
+    padding: 2rem 0; /* 上下留出 2rem 的内边距，左右无额外内边距 */
+}
+
+/* 个人介绍卡片的整体样式 */
+.personal-intro-card {
+    height: 160px;            /* 设置固定高度为 400px */
+    margin: 1.5rem auto;      /* 外边距：上下 1.5rem，左右自动居中 */
+    transition: transform 0.3s ease; /* 平滑的位移动画，用于悬停效果 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* 添加阴影效果，提升浮动感 */
+    border-radius: 15px;      /* 圆角边框，增加柔和效果 */
+    background: rgba(250, 250, 250, 0.5);   /* 设置半透明背景色：白色，透明度为0.5 */
+    backdrop-filter: blur(8px);    /* 对背景应用毛玻璃效果，模糊半径为10px */
+    -webkit-backdrop-filter: blur(10px);    /* Safari 浏览器兼容写法：对背景应用毛玻璃效果，模糊半径为10px */
+    border-radius: 10px;    /* 设置圆角边框，半径为10px */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* 设置1px 宽的实线边框，颜色为半透明白色，透明度为0.3 */
+    font-family: "KaiTi", "楷体", serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+/* 当鼠标悬停到卡片上时，卡片上移 5px，增加动态交互效果 */
+.personal-intro-card:hover {
+    transform: translateY(-5px); /* 鼠标悬停时将卡片向上平移 5px */
+}
+
+/* 卡片标题的样式 */
+.card-title {
+    font-size: 1.45rem;  /* 设置标题字体大小 */
+    font-weight: 600;    /* 标题加粗 */
+    color: #2d3436;      /* 标题颜色为较深的灰色 */
+    margin-bottom: 1rem; /* 标题与下方内容之间的间距为 1rem */
+}
+
+/* 卡片正文文本的样式 */
+.card-text {
+    font-size: 1.35rem; /* 正文字体大小为 0.95rem */
+    color: #636e72;     /* 正文颜色为中等灰色 */
+    line-height: 1.3;   /* 行高设置 */
+}
+
+/* 响应式设计：针对屏幕宽度小于768px的设备进行调整 */
+@media (max-width: 768px) {
+    .personal-intro-card {
+        width: 95%;       /* 在小屏幕上卡片宽度设置为 95% */
+        margin: 1rem auto; /* 减小上下外边距为 1rem，使卡片间距略小 */
+        font-size: 14px;  /* 移动端缩小基础字号 */
+    }
+    
+    .card-title {
+        font-size: 1.1rem; /* 小屏幕上标题字体稍微减小 */
+    }
+    
+    .card-text {
+        font-size: 0.9rem; /* 小屏幕上正文字体略小 */
+    }
+}

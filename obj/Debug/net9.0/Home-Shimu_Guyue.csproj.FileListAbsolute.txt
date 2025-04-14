@@ -191,5 +191,6 @@ C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.pdb
 C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\Home-Shimu_Guyue.genruntimeconfig.cache
 C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\ref\Home-Shimu_Guyue.dll
 C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\l757xez8c3-cietgfvn6i.gz
-C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\5hq3h62tpe-qupgzs0iab.gz
-C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\ke95qikf0s-dr7uio00zw.gz
+C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\ke95qikf0s-b99utyhvuf.gz
+C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\5hq3h62tpe-pky0jou35l.gz
+C:\_0000000000\Github\Home-Shimu_Guyue\obj\Debug\net9.0\compressed\d2viobsxko-c1i5sipcge.gz

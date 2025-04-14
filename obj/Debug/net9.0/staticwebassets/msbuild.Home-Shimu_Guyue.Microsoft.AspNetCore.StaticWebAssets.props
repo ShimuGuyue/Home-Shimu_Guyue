@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dr7uio00zw</Fingerprint>
-      <Integrity>N8tKBXNvj83HmJTD3BpBy0HXS4N6PcCHWe7cQqaRE6U=</Integrity>
+      <Fingerprint>b99utyhvuf</Fingerprint>
+      <Integrity>oaAFtnM5s4jGaMr2RERpW6sI5aCatD9e7lsDTymZZVg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Elysia.css'))</OriginalItemSpec>
@@ -48,11 +48,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qupgzs0iab</Fingerprint>
-      <Integrity>4lmNh/V51N8FnGvnnzg8uYjPx0CXqkJuk9NLqQ1jpl8=</Integrity>
+      <Fingerprint>pky0jou35l</Fingerprint>
+      <Integrity>910x85jK/KiUWvvZIk+ljWxItlZv8qT2OAJWNajP/pk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\personalIntroduce.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Home-Shimu_Guyue</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Home-Shimu_Guyue</BasePath>
+      <RelativePath>css/personalIntroduce.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c1i5sipcge</Fingerprint>
+      <Integrity>kJ68RBIwwht89rwetLSDwKyH5TQg9CNdyvL1fxzZGh4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\personalIntroduce.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))">
       <SourceType>Package</SourceType>
