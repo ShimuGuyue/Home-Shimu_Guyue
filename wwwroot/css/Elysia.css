@@ -1,40 +1,42 @@
 /* 容器边框和毛玻璃特效 */
 .elysia-container {
-    border: 5px solid;
-    border-image: linear-gradient(to right, pink, hotpink, deeppink, palevioletred, lightpink); 
-    border-image-slice: 1;
-    padding: 15px;
-    border-radius: 15px;
-    background: rgba(220, 131, 201, 0.2);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    border: 5px solid; /* 设置边框宽度 */
+    border-image: linear-gradient(to right, pink, hotpink, deeppink, palevioletred, lightpink); /* 渐变边框颜色 */
+    border-image-slice: 1; /* 确保边框填充完整 */
+    padding: 15px; /* 内边距 */
+    border-radius: 15px; /* 圆角边框 */
+    background: rgba(220, 131, 201, 0.2); /* 半透明背景色 */
+    backdrop-filter: blur(10px); /* 毛玻璃效果 */
+    -webkit-backdrop-filter: blur(10px); /* Safari 兼容的毛玻璃效果 */
 }
 
 /* 文字通用样式 */
 .elysia-text {
-    font-size: 18px;
-    font-weight: 1000;
-    color: pink;
-    margin-bottom: 1.5rem;
-    /* 添加段落间距 */
+    font-size: 18px; /* 字体大小 */
+    font-weight: 1000; /* 字体加粗 */
+    color: pink; /* 字体颜色 */
+    margin-bottom: 1.5rem; /* 段落底部间距 */
 }
 
 /* 图片样式 */
 .elysia-image {
-    max-width: 60%;
-    height: auto;
-    margin: 10px 0;
-    /* 添加图片上下间距 */
+    max-width: 60%; /* 图片最大宽度为容器的 60% */
+    height: auto; /* 保持图片宽高比 */
+    margin: 10px 0; /* 图片上下间距 */
+    transition: transform 0.3s ease; /* 鼠标悬停时的缩放动画效果 */
+}
+.elysia-image:hover {
+    transform: scale(1.15); /* 鼠标悬停时放大图片 */
 }
 
 /* 响应式调整 */
 @media (max-width: 768px) {
     .elysia-image {
-        max-width: 80%;
+        max-width: 80%; /* 在小屏幕上调整图片宽度为容器的 80% */
     }
 }
 
 /* 可选：增强渐变边框的辉光效果 */
 .border-glow {
-    box-shadow: 0 0 15px rgba(255, 20, 147, 0.3);
+    box-shadow: 0 0 15px rgba(255, 20, 147, 0.3); /* 添加粉色辉光效果 */
 }
