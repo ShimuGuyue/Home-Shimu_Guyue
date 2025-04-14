@@ -1,48 +1,58 @@
 ﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+/* 设置导航栏品牌的样式 */
 a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+  white-space: normal; /* 允许换行 */
+  text-align: center; /* 文本居中 */
+  word-break: break-all; /* 单词在任意位置断行 */
 }
 
+/* 设置所有链接的默认颜色 */
 a {
-  color: #0077cc;
+  color: #0077cc; /* 蓝色 */
 }
 
+/* 设置主按钮的样式 */
 .btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  color: #fff; /* 按钮文字为白色 */
+  background-color: #1b6ec2; /* 按钮背景为深蓝色 */
+  border-color: #1861ac; /* 按钮边框为更深的蓝色 */
 }
 
+/* 设置导航选项卡的激活状态样式 */
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  color: #fff; /* 激活选项卡文字为白色 */
+  background-color: #1b6ec2; /* 激活选项卡背景为深蓝色 */
+  border-color: #1861ac; /* 激活选项卡边框为更深的蓝色 */
 }
 
+/* 设置顶部边框样式 */
 .border-top {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #e5e5e5; /* 浅灰色顶部边框 */
 }
+
+/* 设置底部边框样式 */
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5; /* 浅灰色底部边框 */
 }
 
+/* 设置盒子阴影效果 */
 .box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); /* 浅灰色阴影 */
 }
 
+/* 设置“接受政策”按钮的样式 */
 button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+  font-size: 1rem; /* 字体大小为 1rem */
+  line-height: inherit; /* 继承行高 */
 }
 
+/* 设置页脚的样式 */
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+  position: absolute; /* 绝对定位 */
+  bottom: 0; /* 固定在页面底部 */
+  width: 100%; /* 宽度占满页面 */
+  white-space: nowrap; /* 禁止换行 */
+  line-height: 60px; /* 行高为 60px */
 }
